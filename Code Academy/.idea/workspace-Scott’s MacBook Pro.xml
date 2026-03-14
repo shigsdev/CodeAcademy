@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="821e885b-9eda-45cd-8461-c4edd55216b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/aws-shigs78-surfacepro7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dictionaries/higs7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace-shigs78-surfacepro7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Code Academy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/coded_correspondence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abruptly Goblins Planner (Solution).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abruptly Goblins Planner.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abruptly Goblins.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coded Correspondence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 1 - initials.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 1 Exercise - Create Purchasing Information and Receipts for Lovely Loveseats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 1 Exercise - User Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 10 - Basta Fazoolin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 10 - Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 2 - Advanced Python Code Challenges - Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 2 - Intro to Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 2 - Python Code Challenges - Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3 - Control Flow - Advanced Python Code Challenges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3 - Control Flow - Introduction to Bugs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3 - Control Flow - Magic 8-Ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3 - Control Flow - Sals Shipping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3 - Control Flow Challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3- Control Flow-An Introduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3- Getting Ready for Physics Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 4 - Creating and Modifying a List in Python - Python Gradebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 4 - Creating and Modifying a List in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 5 - Advanced Python Code Challenges - Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 5 - Lens Slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 5 - Operations on Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 5 - Python Code Challenge - List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 5 - Tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Carly's Clippers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Code Challenge - Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Project Linear Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Python Code Challenges  Loops (Advanced).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Python Code Challenges Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 7 - String Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 7 - Strings Part 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 7 - Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 7 - Thread Shed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 8 - Modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 9 - Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 9 - Scrabble.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 9 - Using Dictonaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python3 - Lesson 5 - Lens Slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 4 - Lists - Combining Lists - zip function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reggie_Linear_Regression_Skeleton.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reggie_Linear_Regression_Skeleton.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reggie_Linear_Regression_Skeleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coded_correspondence.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coded_correspondence/.ipynb_checkpoints/coded_correspondence-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coded_correspondence/.ipynb_checkpoints/coded_correspondence_solutions-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coded_correspondence/coded_correspondence.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coded_correspondence/coded_correspondence_solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeAcademy.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Learn Python 3 - Lesson 10 - Classes.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Learn Python 3 - Lesson 1.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Learn Python 3 - Lesson 10 - Basta Fazoolin.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1pS3orS675YCJR8a5uhwACMbrcO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.google.cloudcode.ide_session_index" value="20210604_0000" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.Learn Python 3 - Lesson 10 - Basta Fazoolin">
+    <configuration name="Learn Python 3 - Lesson 1 Exercise - Create Purchasing Information and Receipts for Lovely Loveseats" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code Academy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn Python 3 - Lesson 1 Exercise - Create Purchasing Information and Receipts for Lovely Loveseats.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Learn Python 3 - Lesson 10 - Basta Fazoolin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code Academy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn Python 3 - Lesson 10 - Basta Fazoolin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Learn Python 3 - Lesson 10 - Classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code Academy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn Python 3 - Lesson 10 - Classes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Learn Python 3 - Lesson 3 - Control Flow - Magic 8-Ball" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code Academy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn Python 3 - Lesson 3 - Control Flow - Magic 8-Ball.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Learn Python 3 - Lesson 3- Control Flow-An Introduction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code Academy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn Python 3 - Lesson 3- Control Flow-An Introduction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python --" type="PythonConfigurationType" factoryName="Python">
+      <module name="Code Academy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="--" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Learn Python 3 - Lesson 10 - Basta Fazoolin" />
+        <item itemvalue="Python.Learn Python 3 - Lesson 10 - Classes" />
+        <item itemvalue="Python.Learn Python 3 - Lesson 1 Exercise - Create Purchasing Information and Receipts for Lovely Loveseats" />
+        <item itemvalue="Python.Learn Python 3 - Lesson 3- Control Flow-An Introduction" />
+        <item itemvalue="Python.Learn Python 3 - Lesson 3 - Control Flow - Magic 8-Ball" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="821e885b-9eda-45cd-8461-c4edd55216b7" name="Default Changelist" comment="" />
+      <created>1615162842919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615162842919</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

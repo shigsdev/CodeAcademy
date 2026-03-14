@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="coded_correspondence">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/coded_correspondence.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

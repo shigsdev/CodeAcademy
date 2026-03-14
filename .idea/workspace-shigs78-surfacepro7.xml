@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af4087ac-6d1c-4bbb-a2d6-a53fdfaac7f3" name="Default Changelist" comment="committ">
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3 - Control Flow - Advanced Python Code Challenges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3 - Control Flow - Sals Shipping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3 - Control Flow Challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3- Control Flow-An Introduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3- Getting Ready for Physics Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 4 - Creating and Modifying a List in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 5 - Advanced Python Code Challenges - Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 5 - Lens Slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 5 - Operations on Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 5 - Python Code Challenge - List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 5 - Tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Code Challenge - Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python3 - Lesson 5 - Lens Slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Python 3 - Lesson 6 - Carly's Clippers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 4 - Creating and Modifying a List in Python - Python Gradebook.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dk4ZrflucQqSudDEyK4daiGypc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.7" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.aws" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="ics" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\higs7\.aws" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="PythonConfigurationType" />
+        <option value="tests" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Learn Python 3 - Lesson 6 - Loops">
+    <configuration name="Learn Python 3 - Lesson 6 - Code Challenge - Loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python.exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Code Challenge - Loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Learn Python 3 - Lesson 6 - Loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python.exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Learning Python 3 - Lesson 6 - Carly's Clippers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python.exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning Python 3 - Lesson 6 - Carly's Clippers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson 4 - Creating and Modifying a List in Python - Python Gradebook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python.exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson 4 - Creating and Modifying a List in Python - Python Gradebook.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in Learn Python 3 - Lesson 6 - Code Challenge - Loops" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="python.exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Code Challenge - Loops.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Learn Python 3 - Lesson 6 - Loops" />
+        <item itemvalue="Python.Learning Python 3 - Lesson 6 - Carly's Clippers" />
+        <item itemvalue="Python.Lesson 4 - Creating and Modifying a List in Python - Python Gradebook" />
+        <item itemvalue="Python.Learn Python 3 - Lesson 6 - Code Challenge - Loops" />
+        <item itemvalue="Python tests.Doctests in Learn Python 3 - Lesson 6 - Code Challenge - Loops" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af4087ac-6d1c-4bbb-a2d6-a53fdfaac7f3" name="Default Changelist" comment="" />
+      <created>1592955815186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592955815186</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="committ" />
+    <option name="LAST_COMMIT_MESSAGE" value="committ" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2485" y="254" key="#Notifications" timestamp="1602894217996">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2485" y="254" key="#Notifications/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1602894217996" />
+    <state x="2312" y="71" key="#Plugins" timestamp="1602881456326">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2312" y="71" key="#Plugins/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1602881456326" />
+    <state x="2020" y="9" key="#Project_Structure" timestamp="1605826646761">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2020" y="9" key="#Project_Structure/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605826646761" />
+    <state x="2488" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602881629511">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2488" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1602881629511" />
+    <state x="2427" y="206" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607805762934">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="433" y="209" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1368.872/2736.0.1920.1040@0.0.1368.872" timestamp="1601899360428" />
+    <state x="2427" y="206" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1607805762934" />
+    <state x="2500" y="185" key="FileChooserDialogImpl" timestamp="1605826643653">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2500" y="185" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605826643653" />
+    <state width="1084" height="222" key="GridCell.Tab.0.bottom" timestamp="1602894251431">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state width="1084" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1602894251431" />
+    <state width="1084" height="222" key="GridCell.Tab.0.center" timestamp="1602894251431">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state width="1084" height="222" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1602894251431" />
+    <state width="1084" height="222" key="GridCell.Tab.0.left" timestamp="1602894251431">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state width="1084" height="222" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1602894251431" />
+    <state width="1084" height="222" key="GridCell.Tab.0.right" timestamp="1602894251431">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state width="1084" height="222" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1602894251431" />
+    <state x="2162" y="107" key="SettingsEditor" timestamp="1602893542479">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2162" y="107" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1602893542479" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

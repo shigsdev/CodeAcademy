@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59332545-9a44-4134-8664-db524a867195" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/aws-shigs78-surfacepro7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dictionaries/higs7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace-shigs78-surfacepro7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Code Academy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/coded_correspondence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/terraform.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abruptly Goblins Planner (Solution).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abruptly Goblins Planner.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abruptly Goblins.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coded Correspondence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 1 - initials.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 1 Exercise - Create Purchasing Information and Receipts for Lovely Loveseats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 1 Exercise - User Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 10 - Files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 10 - Hacking the Fender.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 11 - Basta Fazoolin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 11 - Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 12 - Python Code Challenges - Classes Advanced.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 12 - Python Code Challenges - Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 12 - Python Code Challenges - Dictionaries Advanced.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 12 - Python Code Challenges - Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 12 - Python Code Challenges - Strings Advanced.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 12 - Python Code Challenges - Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 2 - Advanced Python Code Challenges - Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 2 - Intro to Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 2 - Python Code Challenges - Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3 - Control Flow - Advanced Python Code Challenges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3 - Control Flow - Introduction to Bugs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3 - Control Flow - Magic 8-Ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3 - Control Flow - Sals Shipping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3 - Control Flow Challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3- Control Flow-An Introduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 3- Getting Ready for Physics Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 4 - Creating and Modifying a List in Python - Python Gradebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 4 - Creating and Modifying a List in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 4 - Lists - Combining Lists - zip function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 5 - Advanced Python Code Challenges - Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 5 - Lens Slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 5 - Operations on Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 5 - Python Code Challenge - List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 5 - Tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Carly's Clippers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Code Challenge - Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Project Linear Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Python Code Challenges  Loops (Advanced).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 6 - Python Code Challenges Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 7 - String Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 7 - Strings Part 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 7 - Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 7 - Thread Shed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 8 - Modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 9 - Abruptly Goblins Planner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 9 - Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 9 - Scrabble.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 - Lesson 9 - Using Dictonaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python3 - Lesson 5 - Lens Slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reggie_Linear_Regression_Skeleton.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reggie_Linear_Regression_Skeleton.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reggie_Linear_Regression_Skeleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coded_correspondence.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coded_correspondence/.ipynb_checkpoints/coded_correspondence-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coded_correspondence/.ipynb_checkpoints/coded_correspondence_solutions-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coded_correspondence/coded_correspondence.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coded_correspondence/coded_correspondence_solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeAcademy.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="23hZGDFlJafNwjIP78HyilRLqHe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/higs7/OneDrive/Coding/python/Code Academy",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59332545-9a44-4134-8664-db524a867195" name="Changes" comment="" />
+      <created>1642452457872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642452457872</updated>
+      <workItem from="1772773970634" duration="160000" />
+      <workItem from="1772774139979" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
